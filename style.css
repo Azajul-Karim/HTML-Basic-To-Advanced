@@ -4,11 +4,11 @@
         float: left;
         margin-right: 10px;
       } */
-/* img {
-        width: 200px;
-        height: 100px;
-        object-fit: cover;
-      } */
+img {
+  width: 200px;
+  height: 100px;
+  object-fit: cover;
+}
 .head {
   font-weight: bold;
 }
@@ -27,6 +27,10 @@ th {
 
 tfoot {
   text-align: left;
+}
+.product {
+  background-color: aquamarine;
+  width: 400px;
 }
 /* td {
   border: 1px solid rgb(27, 199, 50);
